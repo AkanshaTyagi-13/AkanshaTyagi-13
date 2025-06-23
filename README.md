@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I'm Akansha Tyagi
+🚀 Aspiring Software Engineer | 💻 Full-Stack & DSA Enthusiast | 🤖 Exploring AI + IoT
 
-<!--
-**AkanshaTyagi-13/AkanshaTyagi-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building full-stack and IoT-based projects with real-world impact
 
-Here are some ideas to get you started:
+🌱 Learning Data Structures, Algorithms, and MERN stack for solid software fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Passionate about solving problems with clean code and scalable solutions
+
+💬 Ask me about Java, DSA patterns, system design, or project-building strategies
+
+🌐 Actively participating in coding contests, hackathons & open-source learning
+
+📈 Always up for collaborating on meaningful tech projects
+
+⚡ Fun fact: I love turning concepts into code that speaks for itself
+
+“Code is like humor. When you have to explain it, it’s bad.”
+
